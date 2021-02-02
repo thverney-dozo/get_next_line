@@ -1,4 +1,4 @@
 # get_next_line
 
 
-## Static get next line programme that reads file descriptors.
+## Static get next line program that reads file descriptors.
